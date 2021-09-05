@@ -1,4 +1,4 @@
-#  Full Stack Trivia API 
+#  Full Stack NEWS API 
 
 The project is an educational project .
 it is a demonstration of API development techniques using spring boot framework .
